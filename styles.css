@@ -62,11 +62,7 @@ body {
     margin-bottom: 10px;
 }
 
-.footer a {
-    color: #5865F2;
-    text-decoration: none;
-}
-
+.footer a,
 .discord-link {
     color: #5865F2; /* Discord-compatible color */
     text-decoration: none;
