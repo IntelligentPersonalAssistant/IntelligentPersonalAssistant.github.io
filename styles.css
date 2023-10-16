@@ -2,14 +2,15 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #000;
-    color: #fff;
+    background-color: #f8f9fa;
+    color: #333;
 }
 
 .header {
-    background-color: #1a1a2e;
+    background-color: #000;
     padding: 50px 0;
     text-align: center;
+    color: #fff;
 }
 
 .header-title {
@@ -26,31 +27,32 @@ body {
 }
 
 .mission, .contribution, .community, .selection-process {
-    background-color: #0c0c18;
+    background-color: #fff;
 }
 
 .learning-benefits, .progression-system, .membership {
-    background-color: #1a1a2e;
+    background-color: #f8f9fa;
 }
 
 .section-title {
     font-size: 2.5em;
     margin-bottom: 20px;
     text-align: center;
-    color: #9b59b6; /* Violet color */
+    color: #000;
 }
 
 .section-content {
     font-size: 1.2em;
     line-height: 1.8em;
-    color: #ccc; /* Light gray text */
+    color: #555;
     text-align: center;
 }
 
 .footer {
-    background-color: #1a1a2e;
+    background-color: #000;
     padding: 20px 0;
     text-align: center;
+    color: #fff;
 }
 
 .footer p {
