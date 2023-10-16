@@ -67,6 +67,11 @@ body {
     text-decoration: none;
 }
 
+.discord-link {
+    color: #5865F2; /* Discord-compatible color */
+    text-decoration: none;
+}
+
 .discord-link:hover {
     text-decoration: underline;
 }
